@@ -20,3 +20,7 @@ Skills: Node js | Ext js | React js | TypeScript | AWS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jewel80)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jewelrana80//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8590602/jewel80)  
 
 ![Profile views](https://gpvc.arturio.dev/jewel80)  
+
+My CV/Resume:
+You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
+resume link(Google Drive) = https://drive.google.com/file/d/1gnvq2qd3_h3gSsrLa_1PaxndjQ0-JIEd/view?usp=sharing
