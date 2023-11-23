@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **m.jewelrana80@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gnvq2qd3_h3gSsrLa_1PaxndjQ0-JIEd/view](https://drive.google.com/file/d/1gnvq2qd3_h3gSsrLa_1PaxndjQ0-JIEd/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A-Lcgp4eSbXO7BnEKNqSenBEiQDX3l8Z/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
