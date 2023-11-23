@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jewel Rana</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on Olympic Development Company Ltd. [Greeho.com (development version)](https://camelot.greeho.com)
-
+- 🔭 I’m currently working on Otechnonext Ltd. (a concern of **US-Bangla Group**)  
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **m.jewelrana80@gmail.com**
