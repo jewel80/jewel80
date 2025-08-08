@@ -13,7 +13,7 @@ I'm a seasoned software engineer with over **10 years of experience** in designi
 - 🌟 **Highlighted Projects**: Delivered robust data management and report generation solutions for **United Commercial Bank (UCB)** and **Standard Chartered Bank (SCB)**.
 - 💬 **Ask me about**: Web Development, Microservices, Node.js, .NET Core, AWS, and Kubernetes.
 - 📫 **Reach me**: [m.jewelrana80@gmail.com](mailto:m.jewelrana80@gmail.com)
-- 📄 **Resume**: [View my full experience](https://drive.google.com/file/d/1A-Lcgp4eSbXO7BnEKNqSenBEiQDX3l8Z/view?usp=sharing)
+- 📄 **Resume**: [View my full experience](https://drive.google.com/file/d/1uy5MukPTtvG_u42eEVZeeBQl695mWuHP/view?usp=sharing)
 
 ---
 
