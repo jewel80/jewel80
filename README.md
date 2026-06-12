@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Md. Jewel Rana</h1>
   <h3>Senior Software Engineer & Team Lead | Passionate about Scalable Web Solutions</h3>
-  <p>Building enterprise-grade systems at <strong>TechnoNext Ltd (US-Bangla Group)</strong> in Dhaka, Bangladesh</p>
+  <p>Building enterprise-grade systems at <strong>CartUp Ltd (a Concern of US-Bangla Airlines)</strong> in Dhaka, Bangladesh</p>
 </div>
 
 ---
@@ -32,7 +32,7 @@ I'm a seasoned software engineer with over **10 years of experience** in designi
 ---
 
 ## 🏆 Key Projects
-### **CartUp E-Commerce Platform** | TechnoNext Ltd
+### **CartUp E-Commerce Platform** | CartUp Ltd (a Concern of US-Bangla Airlines)
 - **Role**: Senior Software Engineer & Team Lead
 - **Tech Stack**: Node.js, .NET Core API, TypeScript, PostgreSQL, MongoDB, Kafka, RabbitMQ, Docker, Kubernetes
 - **Impact**: Architected scalable microservices for seller onboarding, KYC, pricing engines, and analytics APIs, supporting thousands of sellers and millions of transactions. Optimized CI/CD pipelines for 30% faster releases.
