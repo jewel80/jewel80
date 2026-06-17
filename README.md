@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Md. Jewel Rana</h1>
   <h3>Senior Software Engineer & Team Lead | Passionate about Scalable Web Solutions</h3>
-  <p>Building enterprise-grade systems at <strong>CartUp Ltd (a Concern of US-Bangla Airlines)</strong> in Dhaka, Bangladesh</p>
+  <p>Building enterprise-grade systems at <strong>US-Bangla Group (US-Bangla Airlines) | Cartup.com</strong> in Dhaka, Bangladesh</p>
 </div>
 
 ---
